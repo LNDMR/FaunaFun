@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="AppTitelStyle">
+        <item name="android:textSize">30sp</item>
+        <item name="fontFamily">@font/sansita_extrabold</item>
+    </style>
+
+    <style name="categoryTextStyle">
+        <item name="android:textSize">24sp</item>
+        <item name="fontFamily">@font/sansita</item>
+    </style>
+
+    <style name="animalTextStyle">
+        <item name="android:textSize">18sp</item>
+        <item name="fontFamily">@font/sansita</item>
+    </style>
+</resources>
